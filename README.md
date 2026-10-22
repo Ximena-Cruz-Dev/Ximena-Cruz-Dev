@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy **Ximena Cruz** 👋
 
-<!--
-**Ximena-Cruz-Dev/Ximena-Cruz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudio **Ingeniería de Software** en la Facultad de Ingeniería Electromecánica.
+- 📍 Soy de **Manzanillo, Colima, México**.
+- 🌱 Actualmente estoy aprendiendo **Git, GitHub, UML, PSeInt y lenguaje C**.
+- 🎯 Mi meta es **aprender a dominar las herramientas de programación necesarias para crear mis propios videojuegos a mi gusto**.
 
-Here are some ideas to get you started:
+## Mis intereses
+- Interés 1: Desarrollo y diseño de videojuegos.
+- Interés 2: Lógica de programación (¡Amo PSeInt!).
+- Interés 3: Creación de software y nuevos proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que quiero aprender 🚀
+- **Python** (Lógica de programación y desarrollo)
+- **Unity & C#** (Motor para desarrollo de videojuegos)
+- **Godot Engine** (Motor ligero para videojuegos)
+
+## Contacto y Enlaces
+- 📧 **Correo:** [xcruz3@ucol.mx](mailto:xcruz3@ucol.mx)
+- 💼 **LinkedIn:** [Mi Perfil de LinkedIn](https://www.linkedin.com/in/cruz-espinosa-ximena-9b8b57445?trk=contact-info)
+- 📁 **Proyecto Integrador:** En fase de diseño conceptual (Propuesta enfocada en ODS para público infantil).
